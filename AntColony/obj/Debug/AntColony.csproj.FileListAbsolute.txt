@@ -1,0 +1,50 @@
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\bin\Debug\resources\input.txt
+C:\Users\Lenovo\OneDrive - Technicka univerzita v Kosiciach\Рабочий стол\TasksC#\AntColony\AntColony\bin\Debug\resources\output.txt
+D:\Study\HOP\AntColony\AntColony\bin\Debug\resources\input.txt
+D:\Study\HOP\AntColony\AntColony\bin\Debug\resources\output.txt
+D:\Study\HOP\AntColony\AntColony\bin\Debug\AntColony.exe.config
+D:\Study\HOP\AntColony\AntColony\bin\Debug\AntColony.exe
+D:\Study\HOP\AntColony\AntColony\bin\Debug\AntColony.pdb
+D:\Study\HOP\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+D:\Study\HOP\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+D:\Study\HOP\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+D:\Study\HOP\AntColony\AntColony\obj\Debug\AntColony.exe
+D:\Study\HOP\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\bin\Debug\resources\input.txt
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\bin\Debug\resources\output.txt
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\resources\input.txt
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\resources\output.txt
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\Telegram Desktop\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\resources\input.txt
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\resources\output.txt
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\Lenovo\Downloads\AntColony(Final)\AntColony(Final)\AntColony (2)\AntColony\AntColony\obj\Debug\AntColony.pdb
