@@ -10,4 +10,4 @@ Welcome to this repository showcasing an implementation of the **Ant Colony Opti
 
 ## Step 1
 
-If you don`t have visual studio, download it. Download the **.zip** file from the repository. Unpack the .zip file. And open project file with extension **.slt**.
+If you don`t have visual studio, download it. Download the **.zip** file from the repository. Unpack the .zip file. And open project file with extension **.sln**.
